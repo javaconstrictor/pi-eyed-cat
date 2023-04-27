@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pi-eyed-cat, but you can call me LJ
 - 👀 I’m interested in arduino and sp8266 coding!
-- 🌱 I’m currently learning C#, python, and javascript
+- 🌱 I’m currently learning C#, python, and java
 - 💞️ I’m looking to collaborate on Anything! id love to hear about your projects and get involved!
 - 📫 How to reach me: leave a question on a project of mine and ill get ahold of you, or email (LoganJMiller99@gmail.com)
 
